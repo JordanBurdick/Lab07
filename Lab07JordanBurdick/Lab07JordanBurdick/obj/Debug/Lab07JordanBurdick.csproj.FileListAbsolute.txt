@@ -1,0 +1,12 @@
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.exe.config
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.pdb
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.csprojResolveAssemblyReference.cache
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\All Labs\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.pdb
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.exe.config
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.pdb
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.exe
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\bin\Debug\Lab07JordanBurdick.pdb
+C:\Users\Dell-Hades\Desktop\Done Labs\Lab 7\Lab07JordanBurdick\Lab07JordanBurdick\obj\Debug\Lab07JordanBurdick.csprojResolveAssemblyReference.cache
